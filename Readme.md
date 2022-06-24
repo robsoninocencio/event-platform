@@ -27,3 +27,18 @@ query = buscar dados
 mutation = criar, alterar ou deletar dados
 
 npm i @apollo/client graphql
+
+https://svg2jsx.com/
+
+https://tailwindcss.com/docs/customizing-colors
+
+https://efficient-sloth-d85.notion.site/Aula-02-b6a8a061e55e4d2c9a5c068c6ed492c3
+
+https://fonts.google.com/specimen/Roboto?query=roboto
+
+https://phosphoricons.com/
+https://github.com/phosphor-icons/phosphor-home
+npm i phosphor-react
+
+dayjs ou date-fns
+npm i date-fns
