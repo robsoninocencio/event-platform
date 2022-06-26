@@ -1,21 +1,28 @@
 # Criar o projeto
 
 https://vitejs.dev/
+
+```
 npm create vite@latest
 Project name: event-plataform
 Framework: react
 Variant: react-ts
+```
 
 # Rodar o projeto
 
+```
 cd event-plataform
 npm i
 npm run dev
+```
 
 # Instalar o Tailwindcss
 
+```
 npm i tailwindcss postcss autoprefixer -D
 npx tailwindcss init -p
+```
 
 # Extensões
 
@@ -50,6 +57,7 @@ https://www.figma.com/file/yAX1t6xQtK0V1b7vbK5kIM/Plataforma-de-evento---Ignite-
 
 https://app.graphcms.com/
 
+```
 CMS = Content Management System
 
 Headless CMS
@@ -59,6 +67,7 @@ React que consome ess API do CMS
 query / mutation
 query = buscar dados
 mutation = criar, alterar ou deletar dados
+```
 
 ## Clonar API do projeto graphcms
 
@@ -67,7 +76,10 @@ rseat.in/lab-graphcms
 # Apollo
 
 https://www.apollographql.com/docs/react/get-started
+
+```
 npm i @apollo/client graphql
+```
 
 ## Site que transform svg em componete do React
 
@@ -87,14 +99,23 @@ https://fonts.google.com/specimen/Roboto?query=roboto
 https://phosphoricons.com/
 https://github.com/phosphor-icons/phosphor-home
 https://github.com/phosphor-icons/phosphor-react
+
+```
 npm i phosphor-react
+```
 
 # Formatando datas
 
+```
 dayjs ou date-fns
+```
+
 https://date-fns.org/
 https://date-fns.org/docs/Getting-Started
+
+```
 npm install date-fns --save
+```
 
 # Exemplo de Design System
 
@@ -109,10 +130,15 @@ https://videojs.com/
 ## Instalação
 
 https://vimejs.com/getting-started/installation#react
+
+```
 npm i @vime/core @vime/react
 ou se der erro
 npm i @vime/core @vime/react --force
+```
 
 # Roteamento
 
+```
 npm i react-router-dom
+```
