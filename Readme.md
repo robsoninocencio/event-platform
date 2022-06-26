@@ -142,3 +142,19 @@ npm i @vime/core @vime/react --force
 ```
 npm i react-router-dom
 ```
+
+# Alternativa de Tailwind com condicional na estilização
+
+npm i classnames
+
+# GraphQL Code Generator
+
+https://www.graphql-code-generator.com/
+
+## React Query
+
+https://www.graphql-code-generator.com/docs/guides/react#react-query
+
+## Apollo and URQL
+
+https://www.graphql-code-generator.com/docs/guides/react#apollo-and-urql
