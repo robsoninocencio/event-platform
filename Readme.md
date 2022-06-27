@@ -158,3 +158,11 @@ https://www.graphql-code-generator.com/docs/guides/react#react-query
 ## Apollo and URQL
 
 https://www.graphql-code-generator.com/docs/guides/react#apollo-and-urql
+
+```
+npm i @graphql-codegen/typescript @graphql-codegen/typescript-operations @graphql-codegen/typescript-react-apollo -D
+npm i @graphql-codegen/cli -D
+
+npm run codegen
+
+```
