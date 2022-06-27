@@ -77,8 +77,6 @@ export function Subscribe() {
             </div>
 
             <img src="/src/assets/code-mockup.png" className="mt-10" alt="" />
-
-            <h1>Subscribe</h1>
         </div>
     );
 }
